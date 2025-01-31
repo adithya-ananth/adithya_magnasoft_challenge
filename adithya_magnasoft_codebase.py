@@ -9,7 +9,7 @@ Original file is located at
 # Install required libraries
 """
 
-!pip install opencv-python easyocr opencv-python-headless
+# !pip install opencv-python easyocr opencv-python-headless
 
 """# Import required libraries"""
 
